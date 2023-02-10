@@ -1,11 +1,11 @@
-# coc-mst-v1
+# coc-manager-v1
 
-#### 介绍
-the first edition of coc management system
+#### Introduce
+This is a management system designed for the game Clash of Clans. It can manage the relevant data of clan members. It uses the official API interface provided by Clash of Clans. It has the following functions: donation reminder, clan blacklist, clan war management and league Result prediction.
 
-#### 软件架构
-软件架构说明
-
+#### Software Architecture
+front: Vue + eliment ui
+back: Node.js + express
 
 #### 安装教程
 
